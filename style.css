@@ -1,0 +1,70 @@
+ul{
+      list-style: none outside none;
+        padding-left: 0;
+            margin: 0;
+    }
+        .demo .item{
+            margin-bottom: 60px;
+        }
+    .content-slider li{
+        background-color: black;
+        text-align: center;
+        color: #FFF;
+    }
+    .content-slider h3 {
+        margin: 0;
+        padding: 70px 0;
+    }
+    .demo{
+      width: 100%;
+    }
+    #speakersTitle{
+      color: white;
+    }
+    .portrait{
+      height: 150px;
+      width: 90%;
+      border: 2px solid;
+      border-radius: 25px;
+      object-fit: cover;
+    }
+    .speaker{
+      color: white;
+    }
+    body{
+      background-color: black;
+    }
+    hr{
+      background-color: white;
+      border-top: 2px solid rgba(0,0,0,.1);
+    }
+    .reporterImage{
+      border-radius: 10px;
+      width: 50%;
+      max-width: 100%;
+      height: 230px;
+      margin-bottom: 1.57rem;
+      border: 2px solid white;
+      object-fit: cover;
+    }
+    @media only screen and (max-width: 1199px) {
+      .reporterImage{
+        width: 70%;  
+      }
+    }
+    @media only screen and (max-width: 991px) {
+      .reporterImage{
+        width: 30%;  
+      }
+    }
+    @media only screen and (max-width: 767px) {
+      .reporterImage{
+        width: 45%;  
+      }
+    }
+    @media only screen and (max-width: 422px) {
+      .reporterImage{
+        width: 70%;  
+      }
+    }
+
