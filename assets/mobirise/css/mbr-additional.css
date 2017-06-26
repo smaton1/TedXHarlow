@@ -9,6 +9,7 @@ input,
 textarea,
 .mbr-company .list-group-text {
   font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
@@ -483,7 +484,7 @@ h6,
   text-align: center;
 }
 #content5-k P {
-  text-align: left;
+  text-align: center;
 }
 #header3-e .mbr-section-title,
 #header3-e .mbr-section-subtitle {
@@ -520,7 +521,7 @@ h6,
 }
 #content2-w UL {
   font-size: 18px;
-  text-align: left;
+  text-align: center;
 }
 #msg-box5-z H3 {
   text-align: center;
@@ -620,4 +621,19 @@ h6,
   color: #ffffff;
   text-align: center;
 }
-
+  #msg-box5-1x H3 {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box5-1x P {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box5-1t H3 {
+  color: #000000;
+  text-align: center;
+}
+#msg-box5-1t P {
+  color: #000000;
+  text-align: center;
+}
